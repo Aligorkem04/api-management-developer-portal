@@ -65,7 +65,7 @@
         "webpack-merge": "5.8.0"
     },
   "dependencies": {
-    "@braintree/sanitize-url": "6.0.0",
+    "@braintree/sanitize-url": "6.0.1",
     "@monaco-editor/loader": "^1.2.0",
     "@paperbits/azure": "0.1.493",
     "@paperbits/common": "0.1.493",
